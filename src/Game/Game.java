@@ -24,7 +24,7 @@ public class Game implements Runnable {
     private int xDir;
     private int yDir;
     private int xAm;
-    private int yAm;
+    private int yAm; // A  change...
     private int count;
     private Random rand;
     
