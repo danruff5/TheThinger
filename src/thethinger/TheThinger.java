@@ -5,7 +5,7 @@
  */
 package thethinger;
 
-import Game.Game;
+import thethinger.Game.Game;
 
 /**
  *
